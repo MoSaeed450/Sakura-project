@@ -10,7 +10,7 @@ Elegant e-commerce platform for premium home décor with smooth animations, shop
 
 ## 📸 Screenshots
 ![Homepage](./sakura1.png)
-![Products](./sakura3.png)
+
 ![Cart](./sakura2.png)
 
 ---
