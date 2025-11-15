@@ -1,4 +1,4 @@
-# 🏠 Sakura
+# 🌸 Sakura
 Elegant e-commerce platform for premium home décor with smooth animations, shopping cart, and favourites functionality , dynamic filtering and products page .
 
 ---
