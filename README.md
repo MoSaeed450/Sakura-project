@@ -67,7 +67,9 @@ Elegant e-commerce platform for premium home décor with smooth animations, shop
 ## 📸 Screenshots
 ![Homepage](./sakura1.png)
 ![Homepage](./2026-03-10 01-27-23 (1).mp4)
-
+<video controls width="600">
+  <source src="./sakuravid.mp4" type="video/mp4">
+</video>
 
 ![Cart](./sakura2.png)
 
