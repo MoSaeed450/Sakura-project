@@ -66,9 +66,8 @@ Elegant e-commerce platform for premium home décor with smooth animations, shop
 
 ## 📸 Screenshots
 ![Homepage](./sakura1.png)
-<video src="./2026-03-10 01-27-23 (1).mp4" width="100%" controls autoplay muted loop>
-  Your browser does not support the video tag.
-</video>
+![Homepage](./2026-03-10 01-27-23 (1).mp4)
+
 
 ![Cart](./sakura2.png)
 
