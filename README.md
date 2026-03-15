@@ -123,7 +123,7 @@ The core idea of Sakura was to sell gypsum products as a Decor. For me, 'Decor' 
 
 ### Target Audience
 <!-- Who is this for and why? -->
-Since Decor equals Home, our heart belongs to Families. I targeted parents who navigate long, demanding days—balancing work, children, and home life. After the chaos, they deserve a moment of pure silence and sanctuary. Sakura is for those who seek to reclaim their peace at the end of every day.
+Since Decor means Home, my heart belongs to Families. I targeted parents who navigate long, demanding days—balancing work, children, and home life. After the chaos, they deserve a moment of pure silence and sanctuary. Sakura is for those who seek to reclaim their peace at the end of every day.
 
 ### Product Photography Direction
 <!-- How did you direct the product photography set? What was the vision? -->
