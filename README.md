@@ -3,7 +3,7 @@
   <!-- Replace with your project banner/logo -->
   <img src="" alt="Project Name" width="600" />
 
-  <h1>🌸 Project Name</h1>
+  <h1>🌸 Sakura</h1>
 
   <p>
     <em>One-line tagline describing your project</em>
