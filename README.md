@@ -37,7 +37,9 @@
 <!-- Use GIFs for animation-heavy projects — they speak louder than static images -->
 
 <div align="center">
-  <img src="" alt="Screenshot 1" width="80%" />
+  <img src="Sakura1.gif" alt="ScreenshotGif1" width="80%" />
+  <img src="Sakura2.gif" alt="ScreenshotGif2" width="80%" />
+  <img src="Sakura3.gif" alt="ScreenshotGif3" width="80%" />
 </div>
 
 <!-- Optional: multiple screenshots -->
@@ -70,22 +72,22 @@
 <!-- ABOUT THE PROJECT -->
 ## 🎯 About The Project
 
-### Problem Statement
-
+### Problem & Solution Statement
 <!-- What problem does this project solve? -->
+-Most e-commerce websites nowadays are repetitive and boring,
+focusing only on utility while sacrificing brand soul.
+-The challenge was to break this cycle by creating an immersive digital experience — one that doesn't just sell a product,
+but leaves a lasting impression through fluid motion and thoughtful design.
 
-### Solution
-
-<!-- What's your solution and how does it work? -->
 
 ### Key Highlights
 
 <!-- What makes this project special? -->
 
-- 
-- 
-- 
-
+- 100% Solo-Led Brand & Dev: Everything you see—from the brand direction, visual identity, and target audience to the final line of code—was conceptualized and implemented solely by me.
+- Unique Digital Experience: Designed to be more than just a store, it's an emotive journey crafted to touch users and leave a lasting impression.
+- Continuous Evolution: This project isn't just a "one-off"; it has been continuously refined over months, evolving from a Vite/SCSS site to a full-scale modern Next.js application.
+- AI-Creative Workflow: Entire brand voice and assets generated and curated using advanced AI tools, all meticulously guided and refined by me.
 ---
 
 <!-- BRAND DIRECTION -->
