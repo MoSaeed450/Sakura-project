@@ -298,7 +298,7 @@ Upwork: https://www.upwork.com/freelancers/~01c5b6713470336779
 
 <!-- Your links -->
 <p>
-  <a href="www.linkedin.com/in/mohamed-saeed-609451317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-saeed-609451317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/mohamedsaeeed"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://wa.me/201147513119"><img src="https://img.shields.io/badge/Whatsapp-1DA1F2?logo=whatsapp&logoColor=green" alt="Whatsapp" /></a>
   <a href="mailto:mosaeed162005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
@@ -307,6 +307,10 @@ Upwork: https://www.upwork.com/freelancers/~01c5b6713470336779
 **Project Link:** [(https://sakura-kohl.vercel.app/](https://sakura-kohl.vercel.app/))
 
 ---
+## 📜 License
+This project, its assets, and the case study content are licensed under **CC BY-NC-ND 4.0**. See the [LICENSE](LICENSE) file for details.
+---
+
 <!-- ACKNOWLEDGMENTS -->
 ## 🙏 Acknowledgments
 
@@ -314,10 +318,6 @@ Upwork: https://www.upwork.com/freelancers/~01c5b6713470336779
 
 - My Family ❤
 
----
-## 📜 License
-
-This project, its assets, and the case study content are licensed under **CC BY-NC-ND 4.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
