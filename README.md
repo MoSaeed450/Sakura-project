@@ -162,7 +162,7 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 
 <!-- PROJECT EVOLUTION -->
 ## 🔄 Project Evolution
-> **Note:** While this project might not look like a "first build," the current version is the result of months of continuous refinement and a complete architectural overhaul.
+> **Note:** While this project might not look like a "first ever project for someone," the current version is the result of months of continuous refinement and a complete architectural overhaul.
 ### V1 — The Learning Phase
 <table>
   <tr>
