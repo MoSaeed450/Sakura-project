@@ -138,15 +138,15 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 <!-- AI-POWERED WORKFLOW -->
 ## 🤖 AI-Powered Workflow
 
-> AI was a core part of my workflow — not just for coding, but across the entire creative process.
+> AI was an important part of my workflow — not just for coding, but across the entire creative process.
 
 <div align="center">
 
 | Area | Tool | How I Used It |
 |------|------|---------------|
-| Product Images | | |
-| Copywriting | | |
-| Development | | |
+| Products' Images | Flora.ai | |
+| Copywriting | ChatGpt | |
+| Development | Antigravity and VScode Copilot | |
 | | | |
 
 </div>
