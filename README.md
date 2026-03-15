@@ -11,8 +11,10 @@
 
   <p>
     <a href="https://sakura-kohl.vercel.app/">View Live Demo</a> &nbsp;·&nbsp;
-    <a href="">Report Bug</a> &nbsp;·&nbsp;
-    <a href="">Request Feature</a>
+    <a href="https://youtu.be/fzCxU0essoc">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" align="middle" /> 
+      <span>View Showcase Video on Youtube</span>
+    </a>
   </p>
 
   <!-- Badges -->
@@ -61,8 +63,7 @@
 - [Project Evolution](#-project-evolution)
 - [Tech Stack](#-tech-stack)
 - [Features](#-features)
-- [Getting Started](#-getting-started)
-- [Challenges & Lessons Learned](#-challenges--lessons-learned)
+- [Lessons Learned](#-lessons-learned)
 - [Roadmap](#-roadmap)
 - [Contact](#-contact)
 - [Acknowledgments](#-acknowledgments)
@@ -80,7 +81,7 @@ focusing only on utility while sacrificing brand soul.
 but leaves a lasting impression through fluid motion and thoughtful design.
 
 
-### Key Highlights
+### Key Highlight
 
 <!-- What makes this project special? -->
 
@@ -251,43 +252,32 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 - **Immersive GSAP Animations:** High-end motion design for a cinematic retail experience.
 
 ---
+<!-- LESSONS LEARNED -->
+## 🧗 Lessons Learned
 
-<!-- CHALLENGES & LESSONS LEARNED -->
-## 🧗 Challenges & Lessons Learned
+🧠 General & Creative Lessons
 
-### Challenge 1: 
+The Power of Solo Ownership: This project proved that one person can handle a full product lifecycle—from business strategy and brand identity to full-stack development. It taught me how to wear multiple hats without losing sight of the core vision.
 
-<!-- 
-**Problem:** 
-**Solution:** 
-**Lesson:** 
--->
+AI as a Bridge: I learned that AI tools (when guided correctly) significantly shorten the distance between a "dreamed concept" and a "deployable reality." It transformed my workflow from just "coding" to "curating and directing" an entire digital brand.
 
-### Challenge 2: 
+Iterative Growth (V1 to V2): I realized that the best way to grow is to be your own toughest critic. Choosing to rebuild a working project from scratch taught me more about architecture than starting ten new "small" projects ever could.
 
-<!-- 
-**Problem:** 
-**Solution:** 
-**Lesson:** 
--->
+💻 Technical Lessons
 
-### Challenge 3: 
+State Management Discipline: Even though Redux might seem like an overkill for some projects, implementing it here was a valuable exercise in managing complex global states (Cart, Favorites) in a scalable, predictable way.
+The Architecture of Reusability: Concepts like "Centralization" and "Custom Hooks" are no longer just terms for me; they are my development standard. Building reusable components and logic ensured that Sakura is not just a website, but a scalable e-commerce engine.
 
-<!-- 
-**Problem:** 
-**Solution:** 
-**Lesson:** 
--->
+Performance-Driven Motion: Mastering GSAP taught me the delicate balance between high-end aesthetics and browser performance. I learned how to create cinematic, timeline-based animations that feel "expensive" without being "heavy."
 
----
+TypeScript as a Safety Net: Transitioning to TypeScript mid-way through V2 showed me how type-safety acts as a second brain, catching errors before they happen and making the code inherently self-documenting.
 
 <!-- ROADMAP -->
 ## 🗺 Roadmap
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] **Payment Integration:** Integrate Stripe or PayPal for a complete checkout flow.
+- [ ] **Multi-language Support (i18n):** Adding Arabic/English toggle to reach a wider audience.
+- [ ] **PWA Support:** Making the website installable on mobile devices for a native app feel.
 
 ---
 
@@ -295,17 +285,17 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 ## 📬 Contact
 
 <!-- Your Name -->
-**Your Name**
+**Mohamed Saeed Attia**
 
 <!-- Your links -->
 <p>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="www.linkedin.com/in/mohamed-saeed-609451317"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/mohamedsaeeed"><img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://wa.me/201147513119"><img src="https://img.shields.io/badge/Whatsapp-1DA1F2?logo=whatsapp&logoColor=green" alt="Whatsapp" /></a>
+  <a href="mailto:mosaeed162005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-**Project Link:** [https://github.com/username/repo](https://github.com/username/repo)
+**Project Link:** [(https://sakura-kohl.vercel.app/](https://sakura-kohl.vercel.app/))
 
 ---
 
@@ -314,12 +304,10 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 
 <!-- Resources, inspirations, or people you want to credit -->
 
-- 
-- 
-- 
+- My Family ❤
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="">Your Name</a></p>
+  <p>Made with ❤️ by <a href="">Mohamed Saeed</a></p>
 </div>
