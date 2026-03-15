@@ -67,6 +67,7 @@
 - [Roadmap](#-roadmap)
 - [Contact](#-contact)
 - [Acknowledgments](#-acknowledgments)
+- [License](#-license)
 
 ---
 
@@ -257,7 +258,7 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 
 🧠 General & Creative Lessons
 
-The Power of Solo Ownership: This project proved that one person can handle a full product lifecycle—from business strategy and brand identity to full-stack development. It taught me how to wear multiple hats without losing sight of the core vision.
+The Power of Solo Ownership: This project proved that I can handle a full product lifecycle—from business strategy and brand identity to full-stack development. It taught me how to wear multiple hats without losing sight of the core vision.
 
 AI as a Bridge: I learned that AI tools (when guided correctly) significantly shorten the distance between a "dreamed concept" and a "deployable reality." It transformed my workflow from just "coding" to "curating and directing" an entire digital brand.
 
@@ -266,6 +267,7 @@ Iterative Growth (V1 to V2): I realized that the best way to grow is to be your 
 💻 Technical Lessons
 
 State Management Discipline: Even though Redux might seem like an overkill for some projects, implementing it here was a valuable exercise in managing complex global states (Cart, Favorites) in a scalable, predictable way.
+
 The Architecture of Reusability: Concepts like "Centralization" and "Custom Hooks" are no longer just terms for me; they are my development standard. Building reusable components and logic ensured that Sakura is not just a website, but a scalable e-commerce engine.
 
 Performance-Driven Motion: Mastering GSAP taught me the delicate balance between high-end aesthetics and browser performance. I learned how to create cinematic, timeline-based animations that feel "expensive" without being "heavy."
@@ -283,6 +285,13 @@ TypeScript as a Safety Net: Transitioning to TypeScript mid-way through V2 showe
 
 <!-- CONTACT -->
 ## 📬 Contact
+Phone: 01147513119
+
+Email: mosaeed162005@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mohamed-saeeed-609451317/
+
+Upwork: https://www.upwork.com/freelancers/~01c5b6713470336779
 
 <!-- Your Name -->
 **Mohamed Saeed Attia**
@@ -298,13 +307,17 @@ TypeScript as a Safety Net: Transitioning to TypeScript mid-way through V2 showe
 **Project Link:** [(https://sakura-kohl.vercel.app/](https://sakura-kohl.vercel.app/))
 
 ---
-
 <!-- ACKNOWLEDGMENTS -->
 ## 🙏 Acknowledgments
 
 <!-- Resources, inspirations, or people you want to credit -->
 
 - My Family ❤
+
+---
+## 📜 License
+
+This project, its assets, and the case study content are licensed under **CC BY-NC-ND 4.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
