@@ -154,7 +154,7 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 ### AI-Generated Assets Showcase
 <div align="center">
   <img src="imageFlora1.png" alt="AI Asset 1" width="30%" />
-  <img src="imageFlora2.png" alt="AI Asset 2" width="30%" />
+  <!-- <img src="imageFlora2.png" alt="AI Asset 2" width="30%" /> -->
 </div>
 
 ---
