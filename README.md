@@ -144,88 +144,79 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 
 | Area | Tool | How I Used It |
 |------|------|---------------|
-| Products' Images | Flora.ai | |
-| Copywriting | ChatGpt | |
-| Development | Antigravity and VScode Copilot | |
-| | | |
+| Products' Images | Flora.ai | Guided and refined the generation of high-end product visuals, ensuring they perfectly matched the vibes desired. |
+| Copywriting | ChatGpt | Brainstormed and iterated on brand tone to create an emotional connection. |
+| Development | Antigravity and VScode Copilot | Pair programming for logic optimization and accelerating the transition from a Vite-based project to a modern Next.js 16 stack. |
 
 </div>
 
 <!-- Optional: Add before/after examples or AI-generated assets showcase -->
-<!--
 ### AI-Generated Assets Showcase
 <div align="center">
-  <img src="" alt="AI Asset 1" width="30%" />
-  <img src="" alt="AI Asset 2" width="30%" />
-  <img src="" alt="AI Asset 3" width="30%" />
+  <img src="imageFlora1.png" alt="AI Asset 1" width="30%" />
+  <img src="imageFlora2.png" alt="AI Asset 2" width="30%" />
 </div>
--->
 
 ---
 
 <!-- PROJECT EVOLUTION -->
 ## 🔄 Project Evolution
-
-### V1 — First Build
-
-<!-- When was it? What stack? What did you learn? -->
-
+> **Note:** While this project might not look like a "first build," the current version is the result of months of continuous refinement and a complete architectural overhaul.
+### V1 — The Learning Phase
 <table>
   <tr>
     <td><strong>Timeline</strong></td>
-    <td></td>
+    <td>Finished Mid-August 2025</td>
   </tr>
   <tr>
     <td><strong>Stack</strong></td>
-    <td></td>
+    <td>React + Vite + SCSS + Framer Motion</td>
   </tr>
   <tr>
     <td><strong>Status</strong></td>
     <td>✅ Completed</td>
   </tr>
 </table>
-
-### V2 — Full Rebuild
-
-<!-- Why did you rebuild? What changed? -->
-
+### V2 — The Professional Rebuild
 <table>
   <tr>
     <td><strong>Timeline</strong></td>
-    <td></td>
+    <td>Late October 2025 – Present</td>
   </tr>
   <tr>
     <td><strong>Stack</strong></td>
-    <td></td>
+    <td>Next.js 16 + Tailwind CSS 4 + TypeScript + GSAP</td>
   </tr>
   <tr>
     <td><strong>Status</strong></td>
-    <td>🔄 Actively Maintained</td>
+    <td>🔄 Actively Maintained & Enhanced</td>
   </tr>
 </table>
 
 ### Why I Rebuilt It
 
-<!-- Your reasoning for the complete rebuild -->
+- **Mastering New Tech:** There is no better way to learn than rebuilding a project you already know. I revisited the old version and realized how much I could improve.
 
-- 
-- 
-- 
+- **Solving the SEO Gap:** The original React + Vite (CSR) setup was a drawback for e-commerce. Moving to Next.js provided the SEO and performance standards a real brand deserves.
+
+- **Simplified Routing & Architecture:** Next.js's App Router replaced the complex React Router setup, offering a more intuitive and powerful way to handle dynamic pages.
+
+- **Scalability & Production Readiness:** By implementing SSR (Server-Side Rendering) and ISR (Incremental Static Regeneration), I ensured the project is ready for any backend integration without "reinventing the wheel."
+
+- **Clean Code & Type Safety:** Adopting TypeScript brought the project up to professional standards, ensuring type safety and fewer bugs.
+
+- **Maintainability (Tailwind vs. SCSS):** My SCSS code had become a "maze" of complex nesting and messy hardcoded values (e.g., margins like 34.5px). Tailwind CSS provided a clean, utility-first structure that made the design easy to maintain and scale.
+
+- **Advanced Aesthetics:** While V1 used basic Framer Motion, I transitioned to **GSAP** in V2 to add another layer of cinematic depth and professional-grade animations.
 
 ### Evolution Timeline
 
-<!-- Key milestones and improvements over time -->
-
 | Date | Milestone |
 |------|-----------|
-| | V1 launched |
-| | V2 rebuild started |
-| | |
-| | |
-| | |
-
----
-
+| Jul - Aug 2025 | V1 Launched (First major build) |
+| Early Nov 2025 | V2 Next.js rebuild started with Tailwind CSS — TypeScript migration followed later. |
+| Feb 2026 | **Supabase Integration:** Implemented a scalable backend for Authintication and handling dynamic product data with seamless dashboard page. |
+| Mar 2026 | Advanced GSAP animations & Performance tuning |
 <!-- TECH STACK -->
 ## 🛠 Tech Stack
 
@@ -233,17 +224,18 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 
 | Category | Technology |
 |----------|-----------|
-| Framework | |
-| UI Library | |
-| Animations | |
-| Styling | |
-| State Management | |
-| Smooth Scroll | |
-| Backend / DB | |
-| Icons | |
-| Notifications | |
+| **Framework** | Next.js 16 (App Router) |
+| **UI Library** | React 19 |
+| **Animations** | GSAP 3 + Framer Motion |
+| **Styling** | Tailwind CSS 4 |
+| **State Management** | Redux Toolkit |
+| **Smooth Scroll** | Lenis |
+| **Backend / DB** | Supabase |
+| **Icons** | Lucide React |
+| **Notifications** | React Toastify |
 
 </div>
+
 
 ---
 
@@ -252,46 +244,11 @@ Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slog
 
 <!-- List your main features -->
 
-- 
-- 
-- 
-- 
-- 
-
----
-
-<!-- GETTING STARTED -->
-## 🚀 Getting Started
-
-### Prerequisites
-
-- 
-- 
-
-### Installation
-
-```bash
-git clone https://github.com/username/repo.git
-cd repo
-npm install
-```
-
-### Environment Variables
-
-<!-- Create a .env.local file and add: -->
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=
-NEXT_PUBLIC_SUPABASE_ANON_KEY=
-```
-
-### Run Locally
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Next.js Power:** Leveraging SSR and ISR for lightning-fast performance and SEO.
+- **Global State Management:** Seamless cart and favorite functionality using Redux Toolkit.
+- **Scalable Backend:** Integrated **Supabase** for seamless product data management and user security.
+- **Responsive & Modern Design:** Fully optimized for all devices using Tailwind CSS 4.
+- **Immersive GSAP Animations:** High-end motion design for a cinematic retail experience.
 
 ---
 
