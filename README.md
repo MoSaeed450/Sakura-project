@@ -1,16 +1,16 @@
 <div align="center">
 
   <!-- Replace with your project banner/logo -->
-  <img src="Sakura.png" alt="Project Name" width="600" />
+  <img src="Sakura.svg" alt="Project Name" width="600" />
 
   <h1>🌸 Sakura</h1>
 
   <p>
-    <em>One-line tagline describing your project</em>
+    <em>Heaven is Home...</em>
   </p>
 
   <p>
-    <a href="">View Live Demo</a> &nbsp;·&nbsp;
+    <a href="https://sakura-kohl.vercel.app/">View Live Demo</a> &nbsp;·&nbsp;
     <a href="">Report Bug</a> &nbsp;·&nbsp;
     <a href="">Request Feature</a>
   </p>
