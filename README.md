@@ -135,8 +135,8 @@ The vision was 'Luxury meets Comfort.' I chose silk and satin backgrounds to pro
 <!-- How did you supervise/guide the copy? What tone did you go for? -->
 Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slogan of the brand "Heaven Is Home" The copywriting focuses on reminding the user that Home is the best part of the day. it’s a quiet place where you’re invited to leave your daily troubles at the door and immerse yourself in tranquility.
 
-*Naming Strategy
-"To deepen the emotional bond between the user and the brand, I avoided generic product names. Every product in Sakura is named after a feeling or a moment we experience at home—such as Embrace, Warmth, or Sanctuary. It’s a subtle touch that transforms a piece of decor into an emotional anchor for the user’s space."
+**Naming Strategy**: 
+To deepen the emotional bond between the user and the brand, I avoided generic product names. Every product in Sakura is named after a feeling or a moment we experience at home—such as Embrace, Warmth, or Sanctuary. It’s a subtle touch that transforms a piece of decor into an emotional anchor for the user’s space.
 
 ---
 
