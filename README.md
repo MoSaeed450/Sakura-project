@@ -98,6 +98,13 @@ but leaves a lasting impression through fluid motion and thoughtful design.
 ### Vibes & Mood
 
 <!-- What feeling/aesthetic did you go for? -->
+The core idea of Sakura was to sell gypsum products as a Decor. For me, 'Decor' means 'Home,' and that was the spark for this entire journey. The goal was to capture the essence of home vibes — comfort, warmth, and relaxation. It’s about creating a cozy family sanctuary with a subtle touch of luxury, a vision that immediately drove me to start this project.
+
+<div align="center">
+  <img src="Sakura2.gif" alt="ScreenshotGif2" width="80%" />
+  <img src="Sakura1.gif" alt="ScreenshotGif1" width="80%" />
+  <!-- <img src="Sakura3.gif" alt="ScreenshotGif3" width="80%" /> -->
+</div>
 
 ### Color Palette
 
@@ -107,24 +114,24 @@ but leaves a lasting impression through fluid motion and thoughtful design.
 
 | Color | Hex | Usage |
 |-------|-----|-------|
-| | `#` | |
-| | `#` | |
-| | `#` | |
-| | `#` | |
+| Dust Grey | `#D8CFC4` | Backgrounds and neutral textures to provide a clean, organic canvas. |
+| Shadow Grey | `#1C1F2A` | Typography and deep contrast elements for a premium, grounding feel. |
+| Rosy Taupe | `#C78F94` | Secondary accents and soft UI elements to bridge warmth and luxury. |
+| Burnt Rose | `#8B4B4B` | Primary brand color, used in backgrounds of products' images for key highlights to evoke emotional warmth. |
 
 </div>
 
 ### Target Audience
-
 <!-- Who is this for and why? -->
+Since Decor equals Home, our heart belongs to Families. I targeted parents who navigate long, demanding days—balancing work, children, and home life. After the chaos, they deserve a moment of pure silence and sanctuary. Sakura is for those who seek to reclaim their peace at the end of every day.
 
 ### Product Photography Direction
-
 <!-- How did you direct the product photography set? What was the vision? -->
+The vision was 'Luxury meets Comfort.' I chose silk and satin backgrounds to provide a sophisticated, high-end feel that remains soft and inviting. I initially experimented with Bronze tones, but theyfelt too heavy and restrictive. I immediately pivoted to a Burnt Rose aesthetic, which perfectly captured the 'warm-lux' balance I was looking for.
 
 ### Copywriting
-
 <!-- How did you supervise/guide the copy? What tone did you go for? -->
+Every word was chosen to serve the 'Home Sanctuary' vibe. Starting from the Slogan of the brand "Heaven Is Home" The copywriting focuses on reminding the user that Home is the best part of the day. it’s a quiet place where you’re invited to leave your daily troubles at the door and immerse yourself in tranquility.
 
 ---
 
