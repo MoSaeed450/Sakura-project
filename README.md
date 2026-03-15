@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Replace with your project banner/logo -->
-  <img src="" alt="Project Name" width="600" />
+  <img src="Sakura.png" alt="Project Name" width="600" />
 
   <h1>🌸 Sakura</h1>
 
